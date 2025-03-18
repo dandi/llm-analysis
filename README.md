@@ -22,13 +22,13 @@ We have identified 10 key findings in systems neuroscience:
 
 5. Tuning for direction and speed
 6. Tuning during reach planning
-7. Neural population dynamics and latent space analysis
 
 ### Navigational systems
 
-8. Place fields and grid cells
-9. Sequential activity and memory replay
-10. Theta phase entrainment and precession
+7. Place fields and grid cells
+8. Sequential activity and memory replay
+9. Theta phase entrainment
+10. Theta phase precession
 
 These studies are intended to be foundational in the sense that many current studies rely on and extend these analyses. For example, a more contemporary study might look at how frequency tuning changes in different conditions (experiences, stimulation, maturity, attentional state, etc.). An ability to reproduce these foundational results is therefore necessary to reproduce these more contemporary studies. 
 
