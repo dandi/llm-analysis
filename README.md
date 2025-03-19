@@ -55,5 +55,16 @@ For Cline to accomplish this task, its capatibilities need to be augmented with 
 
 A big part of getting the LLM to do what you want is to have detailed instructions. These instructions can be provided in a .clineinstruct file.
 
+## Steps to reproduce
+
+1. Clone this repository: `git clone https://github.com/dandi/llm-analysis.git`
+2. Download and install Visual Studio Code and open this repository within the application.
+3. In Visual Studio Code, install the Cline extension.
+4. Install neurosift MCPs: https://github.com/flatironinstitute/neurosift/blob/main-v2/docs/mcp-neurosift-tools.md
+5. Use `anthropic/claude-3.7-sonnet:thinking` with extended thinking enabled and a Budget of 1,024 tokens.
+6. Open Cline and switch to `Plan` mode.
+7. Within the prompt, type:
+    a. Demonstrate orientation selectivity for neurons in visual areas of the brain.
+
 
 

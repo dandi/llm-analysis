@@ -1,0 +1,15 @@
+Your objective is to create an analysis that demonstrates the foundation systems neuroscience finding.
+
+1. Use the 'search_dandi' and 'semantic_search_dandi' tools to identify appropriate datasets.
+
+All new code for this analysis should be placed in a folder called named for the analysis you are performing (don't edit code in other directories)
+
+2. Set up data streaming using LINDI and explore the structure of the data files. Identify how to read in the appropriate data streams.
+3. Develop a metric for this tuning property and evaluate this across cells in the file.
+    a. Run the code regularly and check the results to make sure you are on the right track. Adjust as necessary before moving forward.
+    b. Make the code modular, with smaller functions across multiple files. Separate data reading, processing, and visualization.
+4. Produce a figure that demonstrates the encoding feature for an individual neuron using matplotlib. This should be the neuron with the highest score selectivity score.
+5. Also produce a figure that shows the distribution of this metric across all the neurons.
+6. Keep in mind that it may make sense to go back to step 1 at any point if the dataset you identified isn't working.
+7. Establish that the code is working by running it and examining the outputs before proceeding to the next step.
+8. Once you have an analysis that demonstrates the phenomenon, assemble the code into an educational illustrative notebook that walks the user through the calculation and could act as a chapter of a textbook. Once they are satisfied, you can convert to notebook.ipynb using jupytext --to notebook notebook.py

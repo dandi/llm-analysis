@@ -1,0 +1,24 @@
+# Core data science
+numpy>=1.20.0
+pandas>=1.3.0
+scipy>=1.7.0
+statsmodels
+pandas
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# NWB/DANDI ecosystem
+pynwb>=2.0.0
+dandi>=0.31.0
+h5py>=3.6.0
+lindi
+
+# Jupyter environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+jupytext
+
+# Additional analysis tools
+scikit-learn>=1.0.0
