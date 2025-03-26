@@ -40,7 +40,7 @@ Our initial approach is to use [Cline](https://cline.bot/), a LLM coding agent t
 
 ### MCPs
 
-For Cline to accomplish this task, its capatibilities need to be augmented with MCP tools. We provide the following tools, defined in [neurosift](https://github.com/flatironinstitute/neurosift):
+For Cline to accomplish this task, its capabilities need to be augmented with MCP tools. We provide the following tools, defined in [neurosift](https://github.com/flatironinstitute/neurosift):
 
 * dandi_search: Search for datasets in the DANDI Archive using the standard text search feature
 * dandi_semantic_search: Semantic search for DANDI datasets using natural language
